@@ -1,41 +1,80 @@
-## What is Octopress?
-
-Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
-
-1. **Octopress sports a clean responsive theme** written in semantic HTML5, focused on readability and friendliness toward mobile devices.
-2. **Code blogging is easy and beautiful.** Embed code (with [Solarized](http://ethanschoonover.com/solarized) styling) in your posts from gists, jsFiddle or from your filesystem.
-3. **Third party integration is simple** with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.
-4. **It's easy to use.** A collection of rake tasks simplifies development and makes deploying a cinch.
-5. **Ships with great plug-ins** some original and others from the Jekyll community &mdash; tested and improved.
-
-**Note**: Octopress requires a minimum Ruby version of `1.9.3-p0`.
-
-## Documentation
-
-Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
-It should all apply to our current stable version (found in the `master`
-branch). If this is not the case, [please submit a
-fix to our docs repo](https://github.com/octopress/docs).
-
-## Contributing
-
-[![Build Status](https://travis-ci.org/imathis/octopress.png?branch=master)](https://travis-ci.org/imathis/octopress)
-
-We love to see people contributing to Octopress, whether it's a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a [list of 3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plugins), where you can link your own Octopress plug-in repositories. For the future, we're thinking about ways to easier add them into our main releases.
+## Westley Argentum Hennigh
+##### westleyargentum@gmail.com  |  https://github.com/westleyargentum
 
 
-## License
-(The MIT License)
+### Summary
 
-Copyright © 2009-2013 Brandon Mathis
+I love when creative and artistic work demands crazy engineering.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+At school I worked in close teams on independent games, build from scratch in C++. My 3rd year team and I were lucky enough to have our game Solstice win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Now I work in a small team on architecting and implementing a distributed computation engine. Our goal is to support data scientists and developers working on interactive simulation and visualization projects.
 
 
-#### If you want to be awesome.
-- Proudly display the 'Powered by Octopress' credit in the footer.
-- Add your site to the Wiki so we can watch the community grow.
+### Programming Skills
+
+- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (2 years), JavaScript (1 year)
+ 
+- __Some experience with:__ Objective C, Python, Java, x86 Assembly, GLSL, SQL
+ 
+- __Tools:__ Bash, Git, SVN, AWS, Vagrant, Docker, Node.js, etcd, iOS SDK, GCC, STL, OpenGL, Visual Studio, Kinect SDK
+
+
+### Projects
+
+#### [Mandelbrot (soon to be released)](http://forio.com/products/mandelbrot)
+Mandelbrot is a distributed computing engine that runs Julia code (and exposes bindings for other languages). I was responsible for the laying out most of the initial architecture and implementing many of the base systems. I continue to work on in a small team towards making the system better, faster, and more fault tolerant.
+
+Working on Mandelbrot has given me experience with many things:
+
+ - Writing a component based, event driven engine in Julia
+ - Running untrusted user code in safe ways using Docker
+ - Writing RESTful interfaces with Node.js
+ - Coordinating server activity with a custom protocol over TCP
+ - Working with AWS services and APIs (Ec2, DynamoDB, ELB)
+
+#### [Julia Studio](http://forio.com/products/julia-studio)
+Julia Studio is an open source IDE for the Julia language. After implementing several rough prototypes and plugins, we decided to fork Qt Creator, strip out everything nonessential, and build in tools to help people iterate quickly while writing Julia.
+
+I was the primary developer on Julia Studio during prototyping and for the first few releases. We then expanded the team and I shifted focused to other projects, but I still helped with OSX support and some community outreach.
+
+
+#### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl)
+Lumberjack.jl is a logging library for Julia [motivated by more than just server-side needs](http://forio.com/blog/lumberjack-talking-about-logging-in-models). It's designed to be extremely modular and therefore flexible enough to be used in modeling code as well as in the backend.
+
+I ended up writing most of the code for Lumberjack, but a teammate helped conduct an extensive review of other libraries and the design decisions they made.
+
+#### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
+GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then multiple processors to run different pieces of the GA at the same time.
+
+#### [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl)
+GitHub.jl is a personal project that wraps the GitHub API and makes it easier to call from Julia.
+
+#### [Solstice](http://youtu.be/j_HyA8Bhf_M)
+Solstice is a music-driven exploration game that uses the Kinect. Players fly around a storybook world that changes as they collect fragments of the sun. A small group of friends and I worked on the game for a couple of years during school, and we were recognized at several events:
+
+ - Best Kinect Game - hóPLAY (2012)
+ - Honorable Mention - indiePub: Independent Propeller Awards (2012)
+ - Presenter - Tokyo Game Show: Sense of Wonder Night (2011) 
+ - Game of the year, runner up - DigiPen Game Awards (2011)
+
+My contributions included:
+
+ - Work on a component based engine used by our team and the developers of [Nitronic Rush](https://nitronic-rush.com). Highlights included C++ Expression Templates, a spline interpolation system, and a threaded job manager.
+ - A 3d physics engine that supported collision detection and resolution of simple shapes like spheres and boxes with height maps and arbitrary mesh objects. It also generated efficient partitioning structures for use in broad and narrow phases of collision detection.
+ - Many of the game specific subsystems and logic. For instance: Kinect support, entity and object logic, and some of the seasonal effects.
+
+
+### Contributions
+
+I love open source! If you're curious, you can check out code I've written for the [Julia language](https://github.com/julialang/julia), [Requests.jl](https://github.com/loladiro/Requests.jl), [JSON.jl](https://github.com/JuliaLang/JSON.jl), and many of the above projects.
+
+
+### Organizations
+
+Some coworkers and I host the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users) meetup. We schedule presentations by people who've done interesting work with Julia, and sometimes we show off our own stuff as well.
+
+
+### Education
+
+In 2012 I graduated with a BS in Computer Science in Real Time Interactive Simulations and a minor in Math from DigiPen Institute of Technology.
