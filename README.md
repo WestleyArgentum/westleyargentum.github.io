@@ -36,7 +36,7 @@ Working on Mandelbrot has given me experience with many things:
 #### [Julia Studio](http://forio.com/products/julia-studio)
 Julia Studio is an open source IDE for the Julia language. After implementing several rough prototypes and plugins, we decided to fork Qt Creator, strip out everything nonessential, and build in tools to help people iterate quickly while writing Julia.
 
-I was the primary developer on Julia Studio during prototyping and for the first few releases. We then expanded the team and I shifted focused to other projects, but I still helped with OSX support and some community outreach.
+I was the primary developer on Julia Studio during prototyping and for the first few releases. We then expanded the team and I shifted focus to other projects, but I still helped with OSX support and some community outreach.
 
 
 #### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl)
