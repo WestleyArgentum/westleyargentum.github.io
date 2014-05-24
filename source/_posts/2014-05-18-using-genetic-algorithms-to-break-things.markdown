@@ -17,3 +17,7 @@ Well, maybe our little creatures don't do what we want. Maybe they just like to 
 So instead of trying to cultivate an AI just like a human player, try changing your fitness function to reward something odd, like collision with walls. And maybe bots that make a bunch of money are overrated, perhaps there's something interesting to be learned from bots that try to cause massive market fluctuations.
 
 I think the real promise of genetic algorithms is in breaking things, not in playing nicely within their virtual boxes.
+
+-------
+
+If you're interested in genetic algorithms and Julia, check out [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
