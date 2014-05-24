@@ -20,4 +20,4 @@ I think the real promise of genetic algorithms is in breaking things, not in pla
 
 -------
 
-If you're interested in genetic algorithms and Julia, check out [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
+If you're interested in genetic algorithms and [Julia](http://julialang.org/), check out [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
