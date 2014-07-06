@@ -6,9 +6,11 @@
 
 I love when creative and artistic work demands crazy engineering.
 
-At school I worked in close teams on independent games, build from scratch in C++. My 3rd year team and I were lucky enough to have our game Solstice win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
+At university I worked in close teams on independent games, build from scratch in C++. My 3rd year team and I were lucky enough to have our game Solstice win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
 
-Now I work in a small team on architecting and implementing a distributed computation engine. Our goal is to support data scientists and developers working on interactive simulation and visualization projects.
+I then worked in a small team on architecting and implementing a distributed computation engine. Our goal was to support data scientists and developers working on interactive simulation and visualization projects.
+
+Now I'm headed to Hacker School and trying to bring interactive games into the world of journalism.
 
 
 ### Programming Skills
