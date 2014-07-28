@@ -52,7 +52,7 @@ GeneticAlgorithms.jl is a lightweight framework that simplifies the process of c
 #### [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl)
 GitHub.jl is a personal project that wraps the GitHub API and makes it easier to call from Julia.
 
-#### [Solstice](http://youtu.be/j_HyA8Bhf_M)
+#### [Solstice](http://westleyargentum.github.io/solstice-website/)
 Solstice is a music-driven exploration game that uses the Kinect. Players fly around a storybook world that changes as they collect fragments of the sun. A small group of friends and I worked on the game for a couple of years during school, and we were recognized at several events:
 
  - Best Kinect Game - hóPLAY (2012)
