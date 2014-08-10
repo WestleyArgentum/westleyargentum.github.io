@@ -47,7 +47,7 @@ Lumberjack.jl is a logging library for Julia [motivated by more than just server
 I ended up writing most of the code for Lumberjack, but a teammate helped conduct an extensive review of other libraries and the design decisions they made.
 
 #### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
-GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then multiple processors to run different pieces of the GA at the same time.
+GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then use multiple processors to run different pieces of the GA at the same time.
 
 #### [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl)
 GitHub.jl is a personal project that wraps the GitHub API and makes it easier to call from Julia.
