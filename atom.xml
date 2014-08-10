@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Words, In Some Order]]></title>
+  <link href="http://WestleyArgentum.github.io/atom.xml" rel="self"/>
+  <link href="http://WestleyArgentum.github.io/"/>
+  <updated>2014-08-10T11:34:09-04:00</updated>
+  <id>http://WestleyArgentum.github.io/</id>
+  <author>
+    <name><![CDATA[Westley Hennigh]]></name>
+    <email><![CDATA[WestleyArgentum@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Using Genetic Algorithms to Break Things]]></title>
+    <link href="http://WestleyArgentum.github.io/blog/2014/05/18/using-genetic-algorithms-to-break-things/"/>
+    <updated>2014-05-18T19:11:55-04:00</updated>
+    <id>http://WestleyArgentum.github.io/blog/2014/05/18/using-genetic-algorithms-to-break-things</id>
+    <content type="html"><![CDATA[<p>Few topics have the power to capture the imaginations of computer science undergrads like machine learning. And for many of us, genetic algorithms in particular hold seemingly infinite promise. During your first year or two at school you&rsquo;re on the verge of solving all of the worlds problems using creatures pulled from your mind and made real by your trusty computer.</p>
+
+<p>But then reality sets in, and we become jaded. The awesome AI in the game you&rsquo;re making -that was going to learn to walk, run, and ultimately outpace the player- just keeps finding physics bugs and getting stuck in walls. And the bots you wrote to manage a simulated hedge fund keep triggering massive selloffs and bringing down the whole virtual economy.</p>
+
+<p>By the time we leave school we&rsquo;ve given up on genetic algorithms. &ldquo;Cute,&rdquo; we say, &ldquo;but too opaque and unwieldy to be used in the real world.&rdquo;</p>
+
+<p>Well, maybe our little creatures don&rsquo;t do what we want. Maybe they just like to misbehave &ndash; and maybe that&rsquo;s ok. By embracing the stochastic nature of genetic algorithms we can turn them into some of the best validation tools we have. Let loose, these algorithms might try things that would never occur to us humans, and they might expose terrible bugs along the way.</p>
+
+<p>So instead of trying to cultivate an AI just like a human player, try changing your fitness function to reward something odd, like collision with walls. And maybe bots that make a bunch of money are overrated, perhaps there&rsquo;s something interesting to be learned from bots that try to cause massive market fluctuations.</p>
+
+<p>I think the real promise of genetic algorithms is in breaking things, not in playing nicely within their virtual boxes.</p>
+
+<hr />
+
+<p>If you&rsquo;re interested in genetic algorithms and <a href="http://julialang.org/">Julia</a>, check out <a href="https://github.com/forio/GeneticAlgorithms.jl">GeneticAlgorithms.jl</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lumberjack.jl: Lets Talk About Logging in Models]]></title>
+    <link href="http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models/"/>
+    <updated>2014-01-24T14:51:36-05:00</updated>
+    <id>http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models</id>
+    <content type="html"><![CDATA[<p>Evan Miller <a href="http://www.evanmiller.org/why-im-betting-on-julia.html">made an interesting observation in his blog recently</a>: “[Julia is] poised to do for technical computing what Node.js is doing for web development — getting disparate groups of programmers to code in the same language.” Well, I agree, and I might take it further. I’d like to see scientists and modelers come together with server-side developers to talk about logging&hellip; <a href="http://forio.com/blog/lumberjack-talking-about-logging-in-models/">(contiue reading)</a></p>
+]]></content>
+  </entry>
+  
+</feed>
