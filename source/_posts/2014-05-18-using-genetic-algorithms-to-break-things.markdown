@@ -3,7 +3,7 @@ layout: post
 title: "Using genetic algorithms to break things"
 date: 2014-05-18 16:11:55 -0700
 comments: false
-categories:
+categories: [Julia, Genetic Algorithms]
 ---
 
 Few topics have the power to capture the imaginations of computer science undergrads like machine learning. And for many of us, genetic algorithms in particular hold seemingly infinite promise. During your first year or two at school you're on the verge of solving all of the worlds problems using creatures pulled from your mind and made real by your trusty computer.

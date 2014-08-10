@@ -3,7 +3,7 @@ layout: post
 title: "Lumberjack.jl: lets talk about logging in models"
 date: 2014-01-24 12:51:36 -0700
 comments: false
-categories:
+categories: [Julia, Logging]
 external-url: http://forio.com/blog/lumberjack-talking-about-logging-in-models/
 ---
 
