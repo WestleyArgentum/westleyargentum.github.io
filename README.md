@@ -24,8 +24,8 @@ Now I'm headed to Hacker School and trying to bring interactive games into the w
 
 ### Projects
 
-#### [Mandelbrot (soon to be released)](http://forio.com/products/mandelbrot)
-Mandelbrot is a distributed computing engine that runs Julia code (and exposes bindings for other languages). I was responsible for the laying out most of the initial architecture and implementing many of the base systems. I continue to work on in a small team towards making the system better, faster, and more fault tolerant.
+#### [Mandelbrot](http://forio.com/products/mandelbrot)
+Mandelbrot is a distributed computing engine that runs Julia code (and exposes bindings for other languages). I was responsible for the laying out most of the initial architecture and implementing many of the base systems. I then continued to work on in a small team towards making the system better, faster, and more fault tolerant.
 
 Working on Mandelbrot has given me experience with many things:
 
