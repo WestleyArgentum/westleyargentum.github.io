@@ -40,14 +40,13 @@ Julia Studio is an open source IDE for the Julia language. After implementing se
 
 I was the primary developer on Julia Studio during prototyping and for the first few releases. We then expanded the team and I shifted focus to other projects, but I still helped with OSX support and some community outreach.
 
+#### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
+GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then use multiple processors to run different pieces of the GA at the same time.
 
 #### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl)
 Lumberjack.jl is a logging library for Julia [motivated by more than just server-side needs](http://forio.com/blog/lumberjack-talking-about-logging-in-models). It's designed to be extremely modular and therefore flexible enough to be used in modeling code as well as in the backend.
 
 I ended up writing most of the code for Lumberjack, but a teammate helped conduct an extensive review of other libraries and the design decisions they made.
-
-#### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
-GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then use multiple processors to run different pieces of the GA at the same time.
 
 #### [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl)
 GitHub.jl is a personal project that wraps the GitHub API and makes it easier to call from Julia.
@@ -69,7 +68,7 @@ My contributions included:
 
 ### Contributions
 
-I love open source! If you're curious, you can check out code I've written for the [Julia language](https://github.com/julialang/julia), [Requests.jl](https://github.com/loladiro/Requests.jl), [JSON.jl](https://github.com/JuliaLang/JSON.jl), and many of the above projects.
+I love open source! If you're curious, you can check out code I've written for the [Julia language](https://github.com/julialang/julia), [Requests.jl](https://github.com/JuliaWeb/Requests.jl), [JSON.jl](https://github.com/JuliaLang/JSON.jl), and many of the above projects.
 
 
 ### Organizations
@@ -80,3 +79,5 @@ Some coworkers and I host the [Bay Area Julia Users](http://www.meetup.com/Bay-A
 ### Education
 
 In 2012 I graduated with a BS in Computer Science in Real Time Interactive Simulations and a minor in Math from DigiPen Institute of Technology.
+
+I am currently attending [Hacker School](https://www.hackerschool.com/) where I'm working on a variety of projects involvig campaign finance data.
