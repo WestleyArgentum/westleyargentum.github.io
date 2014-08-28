@@ -80,4 +80,4 @@ Some coworkers and I host the [Bay Area Julia Users](http://www.meetup.com/Bay-A
 
 In 2012 I graduated with a BS in Computer Science in Real Time Interactive Simulations and a minor in Math from DigiPen Institute of Technology.
 
-I am currently attending [Hacker School](https://www.hackerschool.com/) where I'm working on a variety of projects involvig campaign finance data.
+I am currently attending [Hacker School](https://www.hackerschool.com/) where I'm working on a variety of projects involving campaign finance data.
