@@ -10,7 +10,7 @@ At university I worked in close teams on independent games, build from scratch i
 
 I then worked in a small team on architecting and implementing a distributed computation engine. Our goal was to support data scientists and developers working on interactive simulation and visualization projects.
 
-Now I'm headed to Hacker School and trying to bring interactive games into the world of journalism.
+Now I'm at Hacker School and trying to bring interactive games into the world of journalism.
 
 
 ### Programming Skills
