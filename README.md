@@ -15,7 +15,7 @@ Now I'm at Hacker School and trying to bring interactive games into the world of
 
 ### Programming Skills
 
-- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (2 years), JavaScript (1 year)
+- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (2+ years), JavaScript (1+ years)
  
 - __Some experience with:__ Objective C, Python, Java, x86 Assembly, GLSL, SQL
  
@@ -73,7 +73,7 @@ I love open source! If you're curious, you can check out code I've written for t
 
 ### Organizations
 
-Some coworkers and I host the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users) meetup. We schedule presentations by people who've done interesting work with Julia, and sometimes we show off our own stuff as well.
+I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users) meetup with some co-workers, and it quickely became the biggest Julia meetup in the world. We scheduled presentations once a month or so and had a wide range of speakers present interesting projects done with the language.
 
 
 ### Education
