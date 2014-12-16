@@ -3,7 +3,7 @@ layout: post
 title: "Complex Government"
 date: 2014-12-15 21:30:23 -0500
 comments: false
-categories:
+categories: [Government, Politics]
 ---
 
 I'm not against "Big Government", and frankly, I don't think you are either. Even the most extreme of us (that still believe in some form of governed society) expect the government to protect us from physical threats to our safety, and that alone makes it massive. Unfortunately, it also leads to systems that no single person can understand, and *that's* the real problem.
