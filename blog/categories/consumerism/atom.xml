@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Consumerism | Words, In Some Order]]></title>
+  <link href="http://WestleyArgentum.github.io/blog/categories/consumerism/atom.xml" rel="self"/>
+  <link href="http://WestleyArgentum.github.io/"/>
+  <updated>2014-12-28T12:49:46-07:00</updated>
+  <id>http://WestleyArgentum.github.io/</id>
+  <author>
+    <name><![CDATA[Westley Hennigh]]></name>
+    <email><![CDATA[WestleyArgentum@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rewards Programs and Gamification in Practice]]></title>
+    <link href="http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs/"/>
+    <updated>2014-12-28T18:28:53-07:00</updated>
+    <id>http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs</id>
+    <content type="html"><![CDATA[<p>Credit card rewards programs are arguably the most successful, widest &ldquo;played&rdquo; examples of <a href="http://en.wikipedia.org/wiki/Gamification">gamification</a> &mdash; a term with different connotations depending on who you talk to. I&rsquo;m someone who wants to believe in the power of games to do more than entertain, but in this system I’m tremendously disappointed.</p>
+
+<p>Credit card companies make money in part by charging transaction fees whenever customers swipe their cards. These fees are paid by the merchant but are ultimately worked into the price of everything people buy.</p>
+
+<p>In return for spending money, customers receive “points” that can be redeemed for products through the credit card company. Essentially, the price of everything people purchase is increased slightly, the card companies collect that money, and then card holders are able to pick out things their creditor was able to procure on discount. And different cards come with different schemes for awarding points, so the “savvy” consumer can spend hours devising strategies for spending.</p>
+
+<p>This is a terrible game.</p>
+
+<p>By lumping the cost of future purchases into current spending, people are effectively compelled to continue consuming. And by making credit card providers gatekeepers, they’re able to control what people purchase and skim money off for themselves.</p>
+
+<p>Worst of all, there isn’t a way to opt-out. Merchants don’t offer different prices based on whether customers pay with cash or credit (this became <a href="https://www.paymentcardsettlement.com/en">legally possible</a> only in 2013, and visa encourages retailers to <a href="http://usa.visa.com/download/merchants/surcharge-considerations-and-requirements.pdf">maintain the status-quo</a>), so any money someone spends without getting points is a windfall for card companies. The Federal Reserve even <a href="http://www.bostonfed.org/economic/ppdp/2010/ppdp1003.htm">published a study</a> that found these programs resulted in a “nontrivial transfer” from cash-spending to credit card using, and consequently poor to rich, households.</p>
+
+<p>So while I’d love to end this by saying “the only winning move is not to play”, even that won&rsquo;t work.</p>
+]]></content>
+  </entry>
+  
+</feed>
