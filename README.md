@@ -10,14 +10,14 @@ At university I worked in close teams on independent games, build from scratch i
 
 I then worked in a small team on architecting and implementing a distributed computation engine. Our goal was to support data scientists and developers working on interactive simulation and visualization projects.
 
-Now I'm at Hacker School and trying to bring interactive games into the world of journalism.
+From there I went to Hacker School, where I worked on libraries and visualizations for campaign finance reform related projects.
 
 
 ### Programming Skills
 
-- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (2+ years), JavaScript (1+ years)
+- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (3+ years), JavaScript (2+ years), Python (1 year)
  
-- __Some experience with:__ Objective C, Python, Java, x86 Assembly, GLSL, SQL
+- __Some experience with:__ Objective C, Java, x86 Assembly, GLSL, SQL
  
 - __Tools:__ Bash, Git, SVN, AWS, Vagrant, Docker, Node.js, etcd, iOS SDK, GCC, STL, OpenGL, Visual Studio, Kinect SDK
 
@@ -80,4 +80,4 @@ I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Use
 
 In 2012 I graduated with a BS in Computer Science in Real Time Interactive Simulations and a minor in Math from DigiPen Institute of Technology.
 
-I am currently attending [Hacker School](https://www.hackerschool.com/) where I'm working on a variety of projects involving campaign finance data.
+I also attended [Hacker School](https://www.hackerschool.com/) in the summer of 2014.
