@@ -18,8 +18,8 @@ From there I went to Hacker School, where I worked on libraries and visualizatio
 - __Proficient with:__ C++ (4+ years), C (2+ years), Julia (3+ years), JavaScript (2+ years), Python (1 year)
  
 - __Some experience with:__ Objective C, Java, x86 Assembly, GLSL, SQL
- 
-- __Tools:__ Bash, Git, SVN, AWS, Vagrant, Docker, Node.js, etcd, iOS SDK, GCC, STL, OpenGL, Visual Studio, Kinect SDK
+
+- __Tools:__  Node.js, D3.js, AWS, Vagrant, Docker, etcd, Bash, Git, SVN, iOS SDK, GCC, STL, OpenGL, Visual Studio, Kinect SDK
 
 
 ### Projects
@@ -73,7 +73,7 @@ I love open source! If you're curious, you can check out code I've written for t
 
 ### Organizations
 
-I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users) meetup with some co-workers, and it quickely became the biggest Julia meetup in the world. We scheduled presentations once a month or so and had a wide range of speakers present interesting projects done with the language.
+I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users) meetup with some co-workers, and it quickly became the biggest Julia meetup in the world. We scheduled presentations once a month or so and had a wide range of speakers present interesting projects done with the language.
 
 
 ### Education
