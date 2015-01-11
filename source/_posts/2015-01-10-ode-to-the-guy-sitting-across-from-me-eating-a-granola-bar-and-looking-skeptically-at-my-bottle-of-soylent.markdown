@@ -2,7 +2,7 @@
 layout: post
 title: "Ode to the guy sitting across from me eating a granola bar and looking skeptically at my bottle of Soylent"
 date: 2015-01-10 11:38:39 -0500
-comments: true
+comments: false
 categories: [Poems, Soylent, Breakfast]
 ---
 
