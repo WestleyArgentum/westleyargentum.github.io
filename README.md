@@ -1,5 +1,5 @@
 ## Westley Argentum Hennigh
-##### westleyargentum@gmail.com  |  [GitHub](https://github.com/westleyargentum) | [Blog!](http://blog.westleyargentum.com)
+##### westleyargentum@gmail.com  |  [github](https://github.com/westleyargentum) | [blog!](http://blog.westleyargentum.com)
 
 
 ### Summary
