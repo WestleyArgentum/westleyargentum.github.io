@@ -4,7 +4,7 @@
   <title><![CDATA[Words, In Some Order]]></title>
   <link href="http://WestleyArgentum.github.io/atom.xml" rel="self"/>
   <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-01-11T09:15:27-05:00</updated>
+  <updated>2015-01-25T22:37:07-05:00</updated>
   <id>http://WestleyArgentum.github.io/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Groups Most Satisfied With Congress]]></title>
+    <link href="http://WestleyArgentum.github.io/blog/2015/01/25/groups-most-satisfied-with-congress/"/>
+    <updated>2015-01-25T22:51:38-05:00</updated>
+    <id>http://WestleyArgentum.github.io/blog/2015/01/25/groups-most-satisfied-with-congress</id>
+    <content type="html"><![CDATA[<p>The visualization below shows positions taken by groups on bills from the 112th and 113th Congresses (2011 &mdash; 2014) that came up for a vote in at least one chamber. The theory is, by looking at the number of bills supported / opposed by a given group, we can estimate its level of engagement and gauge whether events in Congress are working for or against the groups&#8217; interests. By focusing on bills that made it all the way to a vote, hopefully we&rsquo;re filtering out bills introduced as symbolic gestures or used for political grandstanding.</p>
+
+<p>The data for this visualization comes from <a href="http://maplight.org/">MapLight</a> and the <a href="http://www.opensecrets.org/">Center for Responsive Politics</a>. The CRP, as part of its <a href="http://www.opensecrets.org/resources/create/data.php">Open Data Initiative</a>, compiles and releases large bungles of campaign finance data, including codes for industries and organizations. MapLight pulls in that data for reference while <a href="http://maplight.org/us-congress/bill">painstakingly cataloging</a> those organizations support and opposition to versions of proposed bills.</p>
+
+<iframe src="http://WestleyArgentum.github.io/visualizations/groups-most-satisfied-with-congress/" width="100%" height="1820" scrolling="no"></iframe>
+
+
+<hr />
+
+<p>If you&rsquo;re interested in hacking on civic data and <a href="http://julialang.org/">Julia</a>, check out the source for <a href="https://github.com/WestleyArgentum/groups-most-satisfied-with-congress">this visualization</a>, as well as <a href="https://github.com/WestleyArgentum/OpenSecrets.jl">OpenSecrets.jl</a> and <a href="https://github.com/WestleyArgentum/SunlightAPIs.jl">SunlightAPIs.jl</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ode to the Guy Sitting Across From Me Eating a Granola Bar and Looking Skeptically at My Bottle of Soylent]]></title>
