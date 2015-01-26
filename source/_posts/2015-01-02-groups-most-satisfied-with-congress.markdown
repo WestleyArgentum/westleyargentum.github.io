@@ -11,3 +11,7 @@ The visualization below shows positions taken by groups on bills from the 112th 
 The data for this visualization comes from [MapLight](http://maplight.org/) and the [Center for Responsive Politics](http://www.opensecrets.org/). The CRP, as part of its [Open Data Initiative](http://www.opensecrets.org/resources/create/data.php), compiles and releases large bungles of campaign finance data, including codes for industries and organizations. MapLight pulls in that data for reference while [painstakingly cataloging](http://maplight.org/us-congress/bill) those organizations support and opposition to versions of proposed bills.
 
 <iframe src="/visualizations/groups-most-satisfied-with-congress/" width="100%" height="1820" scrolling="no"></iframe>
+
+-------
+
+If you're interested in hacking on civic data and [Julia](http://julialang.org/), check out the source for [this visualization](https://github.com/WestleyArgentum/groups-most-satisfied-with-congress), as well as [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) and [SunlightAPIs.jl](https://github.com/WestleyArgentum/SunlightAPIs.jl)
