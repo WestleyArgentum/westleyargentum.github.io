@@ -23,20 +23,30 @@ var svg = d3.select("#opposing-groups").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  color.domain(["group1", "group2"]);
+  color.domain(["group1_percent", "group2_percent"]);
 
   d3.csv("data/opposing-group-stats.csv", function(error, data) {
-    console.log('data: ', data)
+    console.log('data: ', data);
 
   data.forEach(function(d) {
-    d['group1'] = +d['votes1']*100/d['totals'];
-    d['group2'] = +d['votes2']*100/d['totals'];
+      console.log('BEFORE: ', d);
+      d['group1_percent'] = +d['votes1']*100/d['totals'];
+      d['group2_percent'] = +d['votes2']*100/d['totals'];
+      var x0 = -1*(+d['group1_percent']);
 
-    var x0 = -1*(+d['group1']);
-    var idx = 0;
+      console.log('AFTER:', d);
 
-    d.boxes = color.domain().map(function(name) { return {name: name, x0: x0, x1: x0 += +d[name], N: +d['totals'], n: +d[idx += 1]}; });
+    d.boxes = color.domain().map(function(name) {
+        return {
+            name: name,
+            x0: x0,
+            x1: x0 += +d[name],
+            N: +d['totals'],
+            groupname: d[name.split('_')[0]]
+        };
+    });
   });
+
 
   var min_val = d3.min(data, function(d) {
           return d.boxes["0"].x0;
@@ -76,7 +86,7 @@ var svg = d3.select("#opposing-groups").append("svg")
       .attr("dx", "0.5em")
       .style("font" ,"10px sans-serif")
       .style("text-anchor", "begin")
-      .text(function(d) { console.log('d: ', d); return "foo"; });//return d.n !== 0 && (d.x1-d.x0)>3 ? d.n : "" });
+      .text(function(d) { return d.groupname; });
 
   vakken.insert("rect",":first-child")
       .attr("height", y.rangeBand())
