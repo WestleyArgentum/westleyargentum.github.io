@@ -26,15 +26,10 @@ var svg = d3.select("#opposing-groups").append("svg")
   color.domain(["group1_percent", "group2_percent"]);
 
   d3.csv("data/opposing-group-stats.csv", function(error, data) {
-    console.log('data: ', data);
-
   data.forEach(function(d) {
-      console.log('BEFORE: ', d);
       d['group1_percent'] = +d['votes1']*100/d['totals'];
       d['group2_percent'] = +d['votes2']*100/d['totals'];
       var x0 = -1*(+d['group1_percent']);
-
-      console.log('AFTER:', d);
 
     d.boxes = color.domain().map(function(name) {
         return {
