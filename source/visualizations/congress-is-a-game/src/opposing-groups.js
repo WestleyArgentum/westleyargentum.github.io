@@ -1,5 +1,5 @@
 
-var margin = {top: 50, right: 20, bottom: 10, left: 230},
+var margin = {top: 50, right: 20, bottom: 10, left: 20},
     width = 700 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -15,10 +15,6 @@ var color = d3.scale.ordinal()
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("top");
-
-var yAxis = d3.svg.axis()
-    .scale(y)
-    .orient("left")
 
 var svg = d3.select("#opposing-groups").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -56,10 +52,6 @@ var svg = d3.select("#opposing-groups").append("svg")
   svg.append("g")
       .attr("class", "x axis")
       .call(xAxis);
-
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
 
   var vakken = svg.selectAll(".question")
       .data(data)
