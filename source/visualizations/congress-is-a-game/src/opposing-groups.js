@@ -1,5 +1,5 @@
 
-var margin = {top: 50, right: 20, bottom: 10, left: 20},
+var margin = {top: 20, right: 20, bottom: 10, left: 20},
     width = 700 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -23,18 +23,18 @@ var svg = d3.select("#opposing-groups").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  color.domain(["Disagree", "Agree"]);
+  color.domain(["group1", "group2"]);
 
   d3.csv("data/opposing-group-stats.csv", function(error, data) {
     console.log('data: ', data)
 
   data.forEach(function(d) {
-    // calc percentages
+    d['group1'] = +d['votes1']*100/d['totals'];
+    d['group2'] = +d['votes2']*100/d['totals'];
 
-    d["Disagree"] = +d['votes1']*100/d['totals'];
-    d["Agree"] = +d['votes2']*100/d['totals'];
-    var x0 = -1*(+d["Disagree"]);
+    var x0 = -1*(+d['group1']);
     var idx = 0;
+
     d.boxes = color.domain().map(function(name) { return {name: name, x0: x0, x1: x0 += +d[name], N: +d['totals'], n: +d[idx += 1]}; });
   });
 
@@ -92,42 +92,5 @@ var svg = d3.select("#opposing-groups").append("svg")
       .attr("x1", x(0))
       .attr("x2", x(0))
       .attr("y2", height);
-
-  var startp = svg.append("g").attr("class", "legendbox").attr("id", "mylegendbox");
-  // this is not nice, we should calculate the bounding box and use that
-  var legend_tabs = [0, 120, 200, 375, 450];
-  var legend = startp.selectAll(".legend")
-      .data(color.domain().slice())
-    .enter().append("g")
-      .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(" + legend_tabs[i] + ",-45)"; });
-
-  legend.append("rect")
-      .attr("x", 0)
-      .attr("width", 18)
-      .attr("height", 18)
-      .style("fill", color);
-
-  legend.append("text")
-      .attr("x", 22)
-      .attr("y", 9)
-      .attr("dy", ".35em")
-      .style("text-anchor", "begin")
-      .style("font" ,"10px sans-serif")
-      .text(function(d) { return d; });
-
-  d3.selectAll(".axis path")
-      .style("fill", "none")
-      .style("stroke", "#000")
-      .style("shape-rendering", "crispEdges")
-
-  d3.selectAll(".axis line")
-      .style("fill", "none")
-      .style("stroke", "#000")
-      .style("shape-rendering", "crispEdges")
-
-  var movesize = width/2 - startp.node().getBBox().width/2;
-  d3.selectAll(".legendbox").attr("transform", "translate(" + movesize  + ",0)");
-
 
 });
