@@ -1,5 +1,5 @@
 
-var margin = {top: 20, right: 20, bottom: 10, left: 20},
+var margin = {top: 20, right: 110, bottom: 10, left: 215},
     width = 700 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -75,12 +75,12 @@ var svg = d3.select('#opposing-groups').append('svg')
       .style('fill', function(d) { return color(d.name); });
 
   bars.append('text')
-      .attr('x', function(d) { return x(d.x0); })
-      .attr('y', y.rangeBand()/2)
+      .attr('x', function(d) { return x(d.name.indexOf('group1') != -1 ? -105 : 40); })
+      .attr('y', y.rangeBand() / 2)
       .attr('dy', '0.5em')
       .attr('dx', '0.5em')
       .style('font' ,'10px sans-serif')
-      .style('text-anchor', 'begin')
+      .style('text-anchor', function(d) { console.log('TEXT', d); return d.name.indexOf('group1') != -1 ? 'end' : 'begin'; })
       .text(function(d) { return d.groupname; });
 
   vakken.insert('rect',':first-child')
