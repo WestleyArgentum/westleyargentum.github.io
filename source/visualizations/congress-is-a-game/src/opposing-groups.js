@@ -14,6 +14,7 @@ var color = d3.scale.ordinal()
 
 var xAxis = d3.svg.axis()
     .scale(x)
+    .tickFormat(function(d) { return Math.abs(d) + '%'; })
     .orient('top');
 
 var svg = d3.select('#opposing-groups').append('svg')
