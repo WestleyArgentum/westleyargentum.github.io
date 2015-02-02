@@ -3,7 +3,7 @@ layout: post
 title: "Congress is a Game, and We Know Which Groups are Winning"
 date: 2015-02-02 10:00:51 -0500
 comments: false
-categories: 
+categories: [Politics, Congress]
 ---
 
 Most approaches to measuring the influence that different interest groups have in Congress favor quantitative metrics like money spent lobbying vs money saved in tax breaks. But while that kind of data is great at shining a spotlight on an individual corporation, it does little to illuminate the playing field and reveal how much influence groups have relative to one another.
