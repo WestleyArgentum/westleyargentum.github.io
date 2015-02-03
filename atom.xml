@@ -4,7 +4,7 @@
   <title><![CDATA[Words, In Some Order]]></title>
   <link href="http://WestleyArgentum.github.io/atom.xml" rel="self"/>
   <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-02-02T08:45:23-05:00</updated>
+  <updated>2015-02-02T20:23:43-05:00</updated>
   <id>http://WestleyArgentum.github.io/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
@@ -33,7 +33,7 @@
 
 <p>Amongst more ideologically focused groups the situation is much the same. Conservative Republican interests were very often at odds with both health and welfare and human rights advocates, but Congress stood firmly with conservatives. They were almost twice as likely to vote against the interests of human rights advocates, and more than twice as likely to vote against health &amp; welfare policy organizations.</p>
 
-<p>The force driving this correlation between support by certain groups and favorable votes in Congress isn&rsquo;t incalculable or hard to guess at. It&rsquo;s money. The groups above that come out on top control massive amounts of political campaign spending relative to their opponents. The conservative Republican interests in conflict with health and welfare policy groups spent an average of 26 times as much on candidates that won seats in the 113th Congress. They outspent human rights advocates by even more &mdash; 300 times as much on average. The Chambers of Commerce, meanwhile, has spent more on lobbying than any other group every year since 1999.</p>
+<p>The force driving this correlation between support by certain groups and favorable votes in Congress isn&rsquo;t incalculable or hard to guess at. It&rsquo;s money. The groups above that come out on top control massive amounts of political campaign spending relative to their opponents. The conservative Republican interests in conflict with health and welfare policy groups spent an average of <a href="https://github.com/WestleyArgentum/congressional-influence-model">26 times as much</a> on candidates that won seats in the 113th Congress. They outspent human rights advocates by even more &mdash; <a href="https://github.com/WestleyArgentum/congressional-influence-model">300 times as much</a> on average. The Chambers of Commerce, meanwhile, has spent more on lobbying than any other group <a href="https://www.opensecrets.org/lobby/top.php">every year since 1999</a>.</p>
 
 <p>It’s easy to be overwhelmed by the complex nature of influence in Congress, but we have the data necessary to understand what’s going on. We know which bills different interest groups favor, and therefore which interests are in contention. We also know which groups are winning because we can look at how representatives vote. And it&rsquo;s clear that those with money have the attention of our lawmakers. While we may not be able to look at any individual vote and cry &ldquo;quid pro quo&rdquo;, the consistency in the broader picture makes what&rsquo;s really happening undeniable.</p>
 
