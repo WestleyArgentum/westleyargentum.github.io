@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Politics | Words, In Some Order]]></title>
   <link href="http://WestleyArgentum.github.io/blog/categories/politics/atom.xml" rel="self"/>
   <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-02-02T22:19:48-05:00</updated>
+  <updated>2015-02-03T20:34:26-05:00</updated>
   <id>http://WestleyArgentum.github.io/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
@@ -24,7 +24,7 @@
 
 <p>This is a seemingly straightforward idea, but it quickly leads to complex issues. It can be extremely non-trivial, for instance, to determine whether a group supports or opposes a bill &mdash; its position may hinge on the wording of a single line, which may be revised many times before a vote.</p>
 
-<p>Fortunately, the organization <a href="http://maplight.org/">MapLight</a> has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the Center for Responsive Politics, they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.</p>
+<p>Fortunately, the organization <a href="http://maplight.org/">MapLight</a> has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the <a href="https://www.opensecrets.org/">Center for Responsive Politics</a>, they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.</p>
 
 <iframe src="http://WestleyArgentum.github.io/visualizations/congress-is-a-game/" width="100%" height="680" scrolling="no"></iframe>
 
