@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Politics | Words, In Some Order]]></title>
   <link href="http://WestleyArgentum.github.io/blog/categories/politics/atom.xml" rel="self"/>
   <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-02-03T20:34:26-05:00</updated>
+  <updated>2015-02-03T20:54:13-05:00</updated>
   <id>http://WestleyArgentum.github.io/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
@@ -57,7 +57,7 @@
 
 <hr />
 
-<p>If you&rsquo;re interested in hacking on civic data and <a href="http://julialang.org/">Julia</a>, check out the source for <a href="https://github.com/WestleyArgentum/groups-most-satisfied-with-congress">this visualization</a>, as well as <a href="https://github.com/WestleyArgentum/OpenSecrets.jl">OpenSecrets.jl</a> and <a href="https://github.com/WestleyArgentum/SunlightAPIs.jl">SunlightAPIs.jl</a></p>
+<p>If you&rsquo;re interested in hacking on civic data with <a href="http://julialang.org/">Julia</a>, check out the source for <a href="https://github.com/WestleyArgentum/groups-most-satisfied-with-congress">this visualization</a>, as well as <a href="https://github.com/WestleyArgentum/OpenSecrets.jl">OpenSecrets.jl</a> and <a href="https://github.com/WestleyArgentum/SunlightAPIs.jl">SunlightAPIs.jl</a></p>
 ]]></content>
   </entry>
   
