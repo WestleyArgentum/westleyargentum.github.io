@@ -12,7 +12,7 @@ In order to do that, we should look at how closely events in Congress align with
 
 This is a seemingly straightforward idea, but it quickly leads to complex issues. It can be extremely non-trivial, for instance, to determine whether a group supports or opposes a bill -- its position may hinge on the wording of a single line, which may be revised many times before a vote.
 
-Fortunately, the organization [MapLight](http://maplight.org/) has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the Center for Responsive Politics, they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.
+Fortunately, the organization [MapLight](http://maplight.org/) has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the [Center for Responsive Politics](https://www.opensecrets.org/), they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.
 
 <iframe src="/visualizations/congress-is-a-game/" width="100%" height="680" scrolling="no"></iframe>
 
