@@ -14,4 +14,4 @@ The data for this visualization comes from [MapLight](http://maplight.org/) and 
 
 -------
 
-If you're interested in hacking on civic data and [Julia](http://julialang.org/), check out the source for [this visualization](https://github.com/WestleyArgentum/groups-most-satisfied-with-congress), as well as [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) and [SunlightAPIs.jl](https://github.com/WestleyArgentum/SunlightAPIs.jl)
+If you're interested in hacking on civic data with [Julia](http://julialang.org/), check out the source for [this visualization](https://github.com/WestleyArgentum/groups-most-satisfied-with-congress), as well as [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) and [SunlightAPIs.jl](https://github.com/WestleyArgentum/SunlightAPIs.jl)
