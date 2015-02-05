@@ -10,7 +10,7 @@ var x = d3.scale.linear()
     .rangeRound([0, width]);
 
 var color = d3.scale.ordinal()
-    .range(['#f6a580', '#92c6db'])
+    .range(['#F6A580', '#7FF6A4'])
     .domain(['group1_percent', 'group2_percent']);
 
 var xAxis = d3.svg.axis()
