@@ -4,7 +4,7 @@
   <title><![CDATA[Words, In Some Order]]></title>
   <link href="http://WestleyArgentum.github.io/atom.xml" rel="self"/>
   <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-02-03T20:54:13-05:00</updated>
+  <updated>2015-02-05T00:14:59-05:00</updated>
   <id>http://WestleyArgentum.github.io/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
@@ -26,7 +26,7 @@
 
 <p>Fortunately, the organization <a href="http://maplight.org/">MapLight</a> has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the <a href="https://www.opensecrets.org/">Center for Responsive Politics</a>, they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.</p>
 
-<iframe src="http://WestleyArgentum.github.io/visualizations/congress-is-a-game/" width="100%" height="680" scrolling="no"></iframe>
+<iframe src="http://WestleyArgentum.github.io/visualizations/congress-is-a-game/" width="100%" height="705" scrolling="no"></iframe>
 
 
 <p>Obviously the data deals with groups in a relatively coarse way, nevertheless, it’s clear that extremely wealthy and largely conservative interests were juggernauts in the 113th Congress. The most diametrically opposed groups were the Chambers of Commerce and consumer advocates, but not once, when a bill the two disagreed on came up for a vote, did Congress vote with consumer advocates. And the stories are similarly bleak for others that came up against the Chambers. Only once in twenty-eight recorded instances did Congress vote with labor unions against the Chambers of Commerce (when House Republicans voted against <a href="http://maplight.org/us-congress/bill/113-hr-4414/3424702/total-contributions">HR 4414</a>, meant to clarify Expatriate Health Coverage specified in the Affordable Care Act).</p>

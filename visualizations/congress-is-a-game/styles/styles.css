@@ -21,6 +21,14 @@ body {
     text-align: center;
 }
 
+.chart-sub-title {
+    margin-top: 12px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    text-align: center;
+    color: #666
+}
+
 .chart-source {
     font-size: 10px;
     text-align: left;
