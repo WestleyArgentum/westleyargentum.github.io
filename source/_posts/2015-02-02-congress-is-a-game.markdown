@@ -14,7 +14,7 @@ This is a seemingly straightforward idea, but it quickly leads to complex issues
 
 Fortunately, the organization [MapLight](http://maplight.org/) has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the [Center for Responsive Politics](https://www.opensecrets.org/), they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.
 
-<iframe src="/visualizations/congress-is-a-game/" width="100%" height="680" scrolling="no"></iframe>
+<iframe src="/visualizations/congress-is-a-game/" width="100%" height="705" scrolling="no"></iframe>
 
 Obviously the data deals with groups in a relatively coarse way, nevertheless, it’s clear that extremely wealthy and largely conservative interests were juggernauts in the 113th Congress. The most diametrically opposed groups were the Chambers of Commerce and consumer advocates, but not once, when a bill the two disagreed on came up for a vote, did Congress vote with consumer advocates. And the stories are similarly bleak for others that came up against the Chambers. Only once in twenty-eight recorded instances did Congress vote with labor unions against the Chambers of Commerce (when House Republicans voted against [HR 4414](http://maplight.org/us-congress/bill/113-hr-4414/3424702/total-contributions), meant to clarify Expatriate Health Coverage specified in the Affordable Care Act).
 

@@ -85,15 +85,6 @@ d3.csv('data/opposing-group-stats.csv', function(error, data) {
         .style('text-anchor', function(d) { return d.name.indexOf('group1') != -1 ? 'end' : 'begin'; })
         .text(function(d) { return d.groupname; });
 
-    bars.append('text')
-        .attr('x', function(d) { return x(d.name.indexOf('group1') != -1 ? -5 : 2); })
-        .attr('y', y.rangeBand() / 2)
-        .attr('dy', '0.5em')
-        .attr('dx', '0.5em')
-        .style('font' ,'10px sans-serif')
-        .style('text-anchor', function(d) { return d.name.indexOf('group1') != -1 ? 'end' : 'begin'; })
-        .text(function(d) { console.log(d); return d['votes']; });
-
     vakken.insert('rect',':first-child')
         .attr('height', y.rangeBand())
         .attr('x', '1')
