@@ -38,7 +38,8 @@ d3.csv('data/opposing-group-stats.csv', function(error, data) {
                 x0: x0,
                 x1: x0 += +d[name],
                 N: +d['totals'],
-                groupname: d[name.split('_')[0]]
+                groupname: d[name.split('_')[0]],
+                votes: name.indexOf('1') != -1 ? d['votes1'] : d['votes2']
             };
         });
     });
@@ -83,6 +84,15 @@ d3.csv('data/opposing-group-stats.csv', function(error, data) {
         .style('font' ,'10px sans-serif')
         .style('text-anchor', function(d) { return d.name.indexOf('group1') != -1 ? 'end' : 'begin'; })
         .text(function(d) { return d.groupname; });
+
+    bars.append('text')
+        .attr('x', function(d) { return x(d.name.indexOf('group1') != -1 ? -5 : 2); })
+        .attr('y', y.rangeBand() / 2)
+        .attr('dy', '0.5em')
+        .attr('dx', '0.5em')
+        .style('font' ,'10px sans-serif')
+        .style('text-anchor', function(d) { return d.name.indexOf('group1') != -1 ? 'end' : 'begin'; })
+        .text(function(d) { console.log(d); return d['votes']; });
 
     vakken.insert('rect',':first-child')
         .attr('height', y.rangeBand())
