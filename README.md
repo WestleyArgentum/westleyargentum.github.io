@@ -74,7 +74,7 @@ I love open source! If you're curious, you can check out code I've written for t
 ### Writing
 
 ##### [Congress Is a Game, and We Know Which Groups Are Winning](http://blog.westleyargentum.com/blog/2015/02/02/congress-is-a-game/)
-A piece about identifying special interest groups with the most influence in Congress.
+A piece about identifying special interests with the most influence in Congress. Originally a blog post, later published by [Dataconomy](http://dataconomy.com/congress-is-a-game-and-we-have-the-data-to-show-whos-winning/).
 
 ##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
 A piece about embracing the stochastic nature of genetic algorithms.
