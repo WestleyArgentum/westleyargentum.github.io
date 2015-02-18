@@ -71,6 +71,15 @@ My contributions included:
 I love open source! If you're curious, you can check out code I've written for the [Julia language](https://github.com/julialang/julia), [Requests.jl](https://github.com/JuliaWeb/Requests.jl), [JSON.jl](https://github.com/JuliaLang/JSON.jl), and many of the above projects.
 
 
+### Writing
+
+##### [Congress Is a Game, and We Know Which Groups Are Winning](http://blog.westleyargentum.com/blog/2015/02/02/congress-is-a-game/)
+A piece about identifying special interest groups with the most influence in Congress.
+
+##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
+A piece about embracing the stochastic nature of genetic algorithms.
+
+
 ### Organizations
 
 I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users) meetup with some co-workers, and it quickly became the biggest Julia meetup in the world. We scheduled presentations once a month or so and had a wide range of speakers present interesting projects done with the language.
