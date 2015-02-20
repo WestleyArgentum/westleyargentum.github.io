@@ -10,7 +10,7 @@ At university I worked in close teams on independent games, build from scratch i
 
 I then worked in a small team on architecting and implementing a distributed computation engine. Our goal was to support data scientists and developers working on interactive simulation and visualization projects.
 
-From there I went to Hacker School, where I worked on libraries and visualizations for campaign finance reform related projects.
+From there I went to Hacker School, where I focused on getting better at data science and journalism. I created libraries and visualizations using campaign finance data, and have since gotten some of my work published.
 
 
 ### Programming Skills
@@ -77,7 +77,7 @@ I love open source! If you're curious, you can check out code I've written for t
 A piece about identifying special interests with the most influence in Congress. Originally a blog post, later published by [Dataconomy](http://dataconomy.com/congress-is-a-game-and-we-have-the-data-to-show-whos-winning/).
 
 ##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
-A piece about embracing the stochastic nature of genetic algorithms.
+A piece about embracing the stochastic nature of genetic algorithms and using them to find problems with models and simulations.
 
 
 ### Organizations
