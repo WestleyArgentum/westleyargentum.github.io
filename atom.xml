@@ -4,7 +4,7 @@
   <title><![CDATA[Words, In Some Order]]></title>
   <link href="http://WestleyArgentum.github.io/atom.xml" rel="self"/>
   <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-02-05T00:14:59-05:00</updated>
+  <updated>2015-03-04T16:37:59-08:00</updated>
   <id>http://WestleyArgentum.github.io/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Congress Is a Game, and We Know Which Groups Are Winning]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2015/02/02/congress-is-a-game/"/>
-    <updated>2015-02-02T10:00:51-05:00</updated>
+    <updated>2015-02-02T07:00:51-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2015/02/02/congress-is-a-game</id>
     <content type="html"><![CDATA[<p>Most approaches to measuring the influence that different interest groups have in Congress favor quantitative metrics like money spent lobbying vs money saved in tax breaks. But while that kind of data is great at shining a spotlight on an individual corporation, it does little to illuminate the playing field and reveal how much influence groups have relative to one another.</p>
 
@@ -46,7 +46,7 @@
   <entry>
     <title type="html"><![CDATA[Groups Most Satisfied With Congress]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2015/01/25/groups-most-satisfied-with-congress/"/>
-    <updated>2015-01-25T22:51:38-05:00</updated>
+    <updated>2015-01-25T19:51:38-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2015/01/25/groups-most-satisfied-with-congress</id>
     <content type="html"><![CDATA[<p>The visualization below shows positions taken by groups on bills from the 112th and 113th Congresses (2011 &mdash; 2014) that came up for a vote in at least one chamber. The theory is, by looking at the number of bills supported / opposed by a given group, we can estimate its level of engagement and gauge whether events in Congress are working for or against the groups&#8217; interests. By focusing on bills that made it all the way to a vote, hopefully we&rsquo;re filtering out bills introduced as symbolic gestures or used for political grandstanding.</p>
 
@@ -64,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[Ode to the Guy Sitting Across From Me Eating a Granola Bar and Looking Skeptically at My Bottle of Soylent]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent/"/>
-    <updated>2015-01-10T11:38:39-05:00</updated>
+    <updated>2015-01-10T08:38:39-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent</id>
     <content type="html"><![CDATA[<p>We should be friends, you and I</p>
 
@@ -88,7 +88,7 @@
   <entry>
     <title type="html"><![CDATA[Someone Get the President a Computer]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2015/01/08/someone-get-the-president-a-computer/"/>
-    <updated>2015-01-08T20:08:24-05:00</updated>
+    <updated>2015-01-08T17:08:24-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2015/01/08/someone-get-the-president-a-computer</id>
     <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/extended_mind.png" alt="alt text" /></p>
 
@@ -105,7 +105,7 @@
   <entry>
     <title type="html"><![CDATA[Rewards Programs and Gamification in Practice]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs/"/>
-    <updated>2014-12-28T20:28:53-05:00</updated>
+    <updated>2014-12-28T17:28:53-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs</id>
     <content type="html"><![CDATA[<p>Credit card rewards programs are arguably the most successful, widest &ldquo;played&rdquo; examples of <a href="http://en.wikipedia.org/wiki/Gamification">gamification</a> &mdash; a term with different connotations depending on who you talk to. I&rsquo;m someone who wants to believe in the power of games to do more than entertain, but in this system I’m tremendously disappointed.</p>
 
@@ -126,7 +126,7 @@
   <entry>
     <title type="html"><![CDATA[Complex Government]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2014/12/15/complex-government/"/>
-    <updated>2014-12-15T21:30:23-05:00</updated>
+    <updated>2014-12-15T18:30:23-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2014/12/15/complex-government</id>
     <content type="html"><![CDATA[<p>I&rsquo;m not against &ldquo;Big Government&rdquo;, and frankly, I don&rsquo;t think you are either. Even the most extreme of us (that still believe in some form of governed society) expect the government to protect us from physical threats to our safety, and that alone makes it massive. Unfortunately, it also leads to systems that no single person can understand, and <em>that&rsquo;s</em> the real problem.</p>
 
@@ -141,7 +141,7 @@
   <entry>
     <title type="html"><![CDATA[Using Genetic Algorithms to Break Things]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2014/05/18/using-genetic-algorithms-to-break-things/"/>
-    <updated>2014-05-18T19:11:55-04:00</updated>
+    <updated>2014-05-18T16:11:55-07:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2014/05/18/using-genetic-algorithms-to-break-things</id>
     <content type="html"><![CDATA[<p>Few topics have the power to capture the imaginations of computer science undergrads like machine learning. And for many of us, genetic algorithms in particular hold seemingly infinite promise. During your first year or two at school you&rsquo;re on the verge of solving all of the worlds problems using creatures pulled from your mind and made real by your trusty computer.</p>
 
@@ -164,7 +164,7 @@
   <entry>
     <title type="html"><![CDATA[Lumberjack.jl: Lets Talk About Logging in Models]]></title>
     <link href="http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models/"/>
-    <updated>2014-01-24T14:51:36-05:00</updated>
+    <updated>2014-01-24T11:51:36-08:00</updated>
     <id>http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models</id>
     <content type="html"><![CDATA[<p>Evan Miller <a href="http://www.evanmiller.org/why-im-betting-on-julia.html">made an interesting observation in his blog recently</a>: “[Julia is] poised to do for technical computing what Node.js is doing for web development — getting disparate groups of programmers to code in the same language.” Well, I agree, and I might take it further. I’d like to see scientists and modelers come together with server-side developers to talk about logging&hellip; <a href="http://forio.com/blog/lumberjack-talking-about-logging-in-models/">(contiue reading)</a></p>
 ]]></content>
