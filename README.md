@@ -6,11 +6,11 @@
 
 I love when creative and artistic work demands crazy engineering.
 
-At university I worked in close teams on independent games, build from scratch in C++. My 3rd year team and I were lucky enough to have our game Solstice win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
+At university I worked in close teams on independent games, built from scratch in C++. My 3rd year team and I were lucky enough to have our game Solstice win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
 
 I then worked in a small team on architecting and implementing a distributed computation engine. Our goal was to support data scientists and developers working on interactive simulation and visualization projects.
 
-From there I went to Hacker School, where I worked on libraries and visualizations for campaign finance reform related projects.
+From there I went to Hacker School, where I focused on getting better at data science and journalism. I created libraries and visualizations using campaign finance data, and have since gotten some of my work published.
 
 
 ### Programming Skills
@@ -35,7 +35,7 @@ Working on Mandelbrot has given me experience with many things:
  - Coordinating server activity with a custom protocol over TCP
  - Working with AWS services and APIs (Ec2, DynamoDB, ELB)
 
-#### [Julia Studio](http://forio.com/products/julia-studio)
+#### [Julia Studio](https://github.com/forio/julia-studio)
 Julia Studio is an open source IDE for the Julia language. After implementing several rough prototypes and plugins, we decided to fork Qt Creator, strip out everything nonessential, and build in tools to help people iterate quickly while writing Julia.
 
 I was the primary developer on Julia Studio during prototyping and for the first few releases. We then expanded the team and I shifted focus to other projects, but I still helped with OSX support and some community outreach.
@@ -74,10 +74,10 @@ I love open source! If you're curious, you can check out code I've written for t
 ### Writing
 
 ##### [Congress Is a Game, and We Know Which Groups Are Winning](http://blog.westleyargentum.com/blog/2015/02/02/congress-is-a-game/)
-A piece about identifying special interest groups with the most influence in Congress.
+A piece about identifying special interests with the most influence in Congress. Originally a blog post, later published by [Dataconomy](http://dataconomy.com/congress-is-a-game-and-we-have-the-data-to-show-whos-winning/).
 
 ##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
-A piece about embracing the stochastic nature of genetic algorithms.
+A piece about embracing the stochastic nature of genetic algorithms and using them to find problems with models and simulations.
 
 
 ### Organizations
