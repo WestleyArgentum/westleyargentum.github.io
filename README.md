@@ -35,6 +35,11 @@ Working on Mandelbrot has given me experience with many things:
  - Coordinating server activity with a custom protocol over TCP
  - Working with AWS services and APIs (Ec2, DynamoDB, ELB)
 
+#### [Campaign Finance Game](http://influencegame.io)
+A prototype of a fantasy football-like game where players build teams out of lobbyists and compete in “seasons“ of Congress.
+
+At Hacker School I assembled data for the 112th and 113th Congresses, built a model for scoring actions on bills, and developed a simple but playable prototype. Players can build teams out of interest groups, explore bills those groups took positions on, and compare the effectiveness of their teams lobbying efforts vs others.
+
 #### [Julia Studio](https://github.com/forio/julia-studio)
 Julia Studio is an open source IDE for the Julia language. After implementing several rough prototypes and plugins, we decided to fork Qt Creator, strip out everything nonessential, and build in tools to help people iterate quickly while writing Julia.
 
