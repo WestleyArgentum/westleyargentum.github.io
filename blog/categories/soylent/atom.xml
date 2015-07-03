@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Soylent | Words, In Some Order]]></title>
-  <link href="http://WestleyArgentum.github.io/blog/categories/soylent/atom.xml" rel="self"/>
-  <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-03-22T13:40:33-04:00</updated>
-  <id>http://WestleyArgentum.github.io/</id>
+  <link href="http://blog.westleyargentum.com/blog/categories/soylent/atom.xml" rel="self"/>
+  <link href="http://blog.westleyargentum.com/"/>
+  <updated>2015-07-03T15:08:33-04:00</updated>
+  <id>http://blog.westleyargentum.com/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
     <email><![CDATA[WestleyArgentum@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ode to the Guy Sitting Across From Me Eating a Granola Bar and Looking Skeptically at My Bottle of Soylent]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent/"/>
+    <link href="http://blog.westleyargentum.com/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent/"/>
     <updated>2015-01-10T11:38:39-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent</id>
+    <id>http://blog.westleyargentum.com/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent</id>
     <content type="html"><![CDATA[<p>We should be friends, you and I</p>
 
 <p>but instead there’s distrust.</p>

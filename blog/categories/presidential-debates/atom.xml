@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Presidential Debates | Words, In Some Order]]></title>
-  <link href="http://WestleyArgentum.github.io/blog/categories/presidential-debates/atom.xml" rel="self"/>
-  <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-03-22T13:40:33-04:00</updated>
-  <id>http://WestleyArgentum.github.io/</id>
+  <link href="http://blog.westleyargentum.com/blog/categories/presidential-debates/atom.xml" rel="self"/>
+  <link href="http://blog.westleyargentum.com/"/>
+  <updated>2015-07-03T15:08:33-04:00</updated>
+  <id>http://blog.westleyargentum.com/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
     <email><![CDATA[WestleyArgentum@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Someone Get the President a Computer]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2015/01/08/someone-get-the-president-a-computer/"/>
+    <link href="http://blog.westleyargentum.com/blog/2015/01/08/someone-get-the-president-a-computer/"/>
     <updated>2015-01-08T20:08:24-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2015/01/08/someone-get-the-president-a-computer</id>
+    <id>http://blog.westleyargentum.com/blog/2015/01/08/someone-get-the-president-a-computer</id>
     <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/extended_mind.png" alt="alt text" /></p>
 
 <p>There is profound truth in this bit of humor, but it seems not to have reached contenders in presidential debates.</p>

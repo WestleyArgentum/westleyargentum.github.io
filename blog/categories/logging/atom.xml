@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Logging | Words, In Some Order]]></title>
-  <link href="http://WestleyArgentum.github.io/blog/categories/logging/atom.xml" rel="self"/>
-  <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-03-22T13:40:33-04:00</updated>
-  <id>http://WestleyArgentum.github.io/</id>
+  <link href="http://blog.westleyargentum.com/blog/categories/logging/atom.xml" rel="self"/>
+  <link href="http://blog.westleyargentum.com/"/>
+  <updated>2015-07-03T15:08:33-04:00</updated>
+  <id>http://blog.westleyargentum.com/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
     <email><![CDATA[WestleyArgentum@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lumberjack.jl: Lets Talk About Logging in Models]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models/"/>
+    <link href="http://blog.westleyargentum.com/blog/2014/01/24/lumberjack-talking-about-logging-in-models/"/>
     <updated>2014-01-24T14:51:36-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models</id>
+    <id>http://blog.westleyargentum.com/blog/2014/01/24/lumberjack-talking-about-logging-in-models</id>
     <content type="html"><![CDATA[<p>Evan Miller <a href="http://www.evanmiller.org/why-im-betting-on-julia.html">made an interesting observation in his blog recently</a>: “[Julia is] poised to do for technical computing what Node.js is doing for web development — getting disparate groups of programmers to code in the same language.” Well, I agree, and I might take it further. I’d like to see scientists and modelers come together with server-side developers to talk about logging&hellip; <a href="http://forio.com/blog/lumberjack-talking-about-logging-in-models/">(contiue reading)</a></p>
 ]]></content>
   </entry>

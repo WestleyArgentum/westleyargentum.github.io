@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Rewards Programs | Words, In Some Order]]></title>
-  <link href="http://WestleyArgentum.github.io/blog/categories/rewards-programs/atom.xml" rel="self"/>
-  <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-03-22T13:40:33-04:00</updated>
-  <id>http://WestleyArgentum.github.io/</id>
+  <link href="http://blog.westleyargentum.com/blog/categories/rewards-programs/atom.xml" rel="self"/>
+  <link href="http://blog.westleyargentum.com/"/>
+  <updated>2015-07-03T15:08:33-04:00</updated>
+  <id>http://blog.westleyargentum.com/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
     <email><![CDATA[WestleyArgentum@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rewards Programs and Gamification in Practice]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs/"/>
+    <link href="http://blog.westleyargentum.com/blog/2014/12/28/rewards-programs/"/>
     <updated>2014-12-28T20:28:53-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs</id>
+    <id>http://blog.westleyargentum.com/blog/2014/12/28/rewards-programs</id>
     <content type="html"><![CDATA[<p>Credit card rewards programs are arguably the most successful, widest &ldquo;played&rdquo; examples of <a href="http://en.wikipedia.org/wiki/Gamification">gamification</a> &mdash; a term with different connotations depending on who you talk to. I&rsquo;m someone who wants to believe in the power of games to do more than entertain, but in this system I’m tremendously disappointed.</p>
 
 <p>Credit card companies make money in part by charging transaction fees whenever customers swipe their cards. These fees are paid by the merchant but are ultimately worked into the price of everything people buy.</p>

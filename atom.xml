@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Words, In Some Order]]></title>
-  <link href="http://WestleyArgentum.github.io/atom.xml" rel="self"/>
-  <link href="http://WestleyArgentum.github.io/"/>
-  <updated>2015-03-22T13:40:33-04:00</updated>
-  <id>http://WestleyArgentum.github.io/</id>
+  <link href="http://blog.westleyargentum.com/atom.xml" rel="self"/>
+  <link href="http://blog.westleyargentum.com/"/>
+  <updated>2015-07-03T15:08:33-04:00</updated>
+  <id>http://blog.westleyargentum.com/</id>
   <author>
     <name><![CDATA[Westley Hennigh]]></name>
     <email><![CDATA[WestleyArgentum@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Congress Is a Game, and We Know Which Groups Are Winning]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2015/02/02/congress-is-a-game/"/>
+    <link href="http://blog.westleyargentum.com/blog/2015/02/02/congress-is-a-game/"/>
     <updated>2015-02-02T10:00:51-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2015/02/02/congress-is-a-game</id>
+    <id>http://blog.westleyargentum.com/blog/2015/02/02/congress-is-a-game</id>
     <content type="html"><![CDATA[<p>Most approaches to measuring the influence that different interest groups have in Congress favor quantitative metrics like money spent lobbying vs money saved in tax breaks. But while that kind of data is great at shining a spotlight on an individual corporation, it does little to illuminate the playing field and reveal how much influence groups have relative to one another.</p>
 
 <p>In order to do that, we should look at how closely events in Congress align with the goals of different special interests, especially when there’s contention. When a bill that an interest supports makes it all the way to a vote and passes, it’s indicative of them having more influence than the bill’s opponents. Conversely, when a bill that an interest opposes comes up for a vote and passes, it indicates that they don’t have as much influence as they might like. Played out over many bills and years in Congress, trends emerge.</p>
@@ -26,7 +26,7 @@
 
 <p>Fortunately, the organization <a href="http://maplight.org/">MapLight</a> has gone to extensive lengths to catalog interest group support and opposition to versions of bills as they pass through Congress. And, by associating organizations using a taxonomy created by the <a href="https://www.opensecrets.org/">Center for Responsive Politics</a>, they provide us data that’s nicely broken up along economic and ideological lines. This makes it easier to both establish “rivalries” between groups frequently on opposing sides of issues and, based on events in Congress, to ascertain which of the competing interests seem to have more influence.</p>
 
-<iframe src="http://WestleyArgentum.github.io/visualizations/congress-is-a-game/" width="100%" height="705" scrolling="no"></iframe>
+<iframe src="http://blog.westleyargentum.com/visualizations/congress-is-a-game/" width="100%" height="705" scrolling="no"></iframe>
 
 
 <p>Obviously the data deals with groups in a relatively coarse way, nevertheless, it’s clear that extremely wealthy and largely conservative interests were juggernauts in the 113th Congress. The most diametrically opposed groups were the Chambers of Commerce and consumer advocates, but not once, when a bill the two disagreed on came up for a vote, did Congress vote with consumer advocates. And the stories are similarly bleak for others that came up against the Chambers. Only once in twenty-eight recorded instances did Congress vote with labor unions against the Chambers of Commerce (when House Republicans voted against <a href="http://maplight.org/us-congress/bill/113-hr-4414/3424702/total-contributions">HR 4414</a>, meant to clarify Expatriate Health Coverage specified in the Affordable Care Act).</p>
@@ -45,14 +45,14 @@
   
   <entry>
     <title type="html"><![CDATA[Groups Most Satisfied With Congress]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2015/01/25/groups-most-satisfied-with-congress/"/>
+    <link href="http://blog.westleyargentum.com/blog/2015/01/25/groups-most-satisfied-with-congress/"/>
     <updated>2015-01-25T22:51:38-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2015/01/25/groups-most-satisfied-with-congress</id>
+    <id>http://blog.westleyargentum.com/blog/2015/01/25/groups-most-satisfied-with-congress</id>
     <content type="html"><![CDATA[<p>The visualization below shows positions taken by groups on bills from the 112th and 113th Congresses (2011 &mdash; 2014) that came up for a vote in at least one chamber. The theory is, by looking at the number of bills supported / opposed by a given group, we can estimate its level of engagement and gauge whether events in Congress are working for or against the groups&#8217; interests. By focusing on bills that made it all the way to a vote, hopefully we&rsquo;re filtering out bills introduced as symbolic gestures or used for political grandstanding.</p>
 
 <p>The data for this visualization comes from <a href="http://maplight.org/">MapLight</a> and the <a href="http://www.opensecrets.org/">Center for Responsive Politics</a>. The CRP, as part of its <a href="http://www.opensecrets.org/resources/create/data.php">Open Data Initiative</a>, compiles and releases large bungles of campaign finance data, including codes for industries and organizations. MapLight pulls in that data for reference while <a href="http://maplight.org/us-congress/bill">painstakingly cataloging</a> those organizations support and opposition to versions of proposed bills.</p>
 
-<iframe src="http://WestleyArgentum.github.io/visualizations/groups-most-satisfied-with-congress/" width="100%" height="1820" scrolling="no"></iframe>
+<iframe src="http://blog.westleyargentum.com/visualizations/groups-most-satisfied-with-congress/" width="100%" height="1820" scrolling="no"></iframe>
 
 
 <hr />
@@ -63,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ode to the Guy Sitting Across From Me Eating a Granola Bar and Looking Skeptically at My Bottle of Soylent]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent/"/>
+    <link href="http://blog.westleyargentum.com/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent/"/>
     <updated>2015-01-10T11:38:39-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent</id>
+    <id>http://blog.westleyargentum.com/blog/2015/01/10/ode-to-the-guy-sitting-across-from-me-eating-a-granola-bar-and-looking-skeptically-at-my-bottle-of-soylent</id>
     <content type="html"><![CDATA[<p>We should be friends, you and I</p>
 
 <p>but instead there’s distrust.</p>
@@ -87,9 +87,9 @@
   
   <entry>
     <title type="html"><![CDATA[Someone Get the President a Computer]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2015/01/08/someone-get-the-president-a-computer/"/>
+    <link href="http://blog.westleyargentum.com/blog/2015/01/08/someone-get-the-president-a-computer/"/>
     <updated>2015-01-08T20:08:24-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2015/01/08/someone-get-the-president-a-computer</id>
+    <id>http://blog.westleyargentum.com/blog/2015/01/08/someone-get-the-president-a-computer</id>
     <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/extended_mind.png" alt="alt text" /></p>
 
 <p>There is profound truth in this bit of humor, but it seems not to have reached contenders in presidential debates.</p>
@@ -104,9 +104,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rewards Programs and Gamification in Practice]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs/"/>
+    <link href="http://blog.westleyargentum.com/blog/2014/12/28/rewards-programs/"/>
     <updated>2014-12-28T20:28:53-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2014/12/28/rewards-programs</id>
+    <id>http://blog.westleyargentum.com/blog/2014/12/28/rewards-programs</id>
     <content type="html"><![CDATA[<p>Credit card rewards programs are arguably the most successful, widest &ldquo;played&rdquo; examples of <a href="http://en.wikipedia.org/wiki/Gamification">gamification</a> &mdash; a term with different connotations depending on who you talk to. I&rsquo;m someone who wants to believe in the power of games to do more than entertain, but in this system I’m tremendously disappointed.</p>
 
 <p>Credit card companies make money in part by charging transaction fees whenever customers swipe their cards. These fees are paid by the merchant but are ultimately worked into the price of everything people buy.</p>
@@ -125,9 +125,9 @@
   
   <entry>
     <title type="html"><![CDATA[Complex Government]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2014/12/15/complex-government/"/>
+    <link href="http://blog.westleyargentum.com/blog/2014/12/15/complex-government/"/>
     <updated>2014-12-15T21:30:23-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2014/12/15/complex-government</id>
+    <id>http://blog.westleyargentum.com/blog/2014/12/15/complex-government</id>
     <content type="html"><![CDATA[<p>I&rsquo;m not against &ldquo;Big Government&rdquo;, and frankly, I don&rsquo;t think you are either. Even the most extreme of us (that still believe in some form of governed society) expect the government to protect us from physical threats to our safety, and that alone makes it massive. Unfortunately, it also leads to systems that no single person can understand, and <em>that&rsquo;s</em> the real problem.</p>
 
 <p>I&rsquo;m against <em>complex</em> government. The complexity of our laws and institutions allows things to hide, costs us as taxpayers, and ultimately undermines confidence in our shared institutions.</p>
@@ -140,9 +140,9 @@
   
   <entry>
     <title type="html"><![CDATA[Using Genetic Algorithms to Break Things]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2014/05/18/using-genetic-algorithms-to-break-things/"/>
+    <link href="http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/"/>
     <updated>2014-05-18T19:11:55-04:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2014/05/18/using-genetic-algorithms-to-break-things</id>
+    <id>http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things</id>
     <content type="html"><![CDATA[<p>Few topics have the power to capture the imaginations of computer science undergrads like machine learning. And for many of us, genetic algorithms in particular hold seemingly infinite promise. During your first year or two at school you&rsquo;re on the verge of solving all of the worlds problems using creatures pulled from your mind and made real by your trusty computer.</p>
 
 <p>But then reality sets in, and we become jaded. The awesome AI in the game you&rsquo;re making -that was going to learn to walk, run, and ultimately outpace the player- just keeps finding physics bugs and getting stuck in walls. And the bots you wrote to manage a simulated hedge fund keep triggering massive selloffs and bringing down the whole virtual economy.</p>
@@ -163,9 +163,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lumberjack.jl: Lets Talk About Logging in Models]]></title>
-    <link href="http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models/"/>
+    <link href="http://blog.westleyargentum.com/blog/2014/01/24/lumberjack-talking-about-logging-in-models/"/>
     <updated>2014-01-24T14:51:36-05:00</updated>
-    <id>http://WestleyArgentum.github.io/blog/2014/01/24/lumberjack-talking-about-logging-in-models</id>
+    <id>http://blog.westleyargentum.com/blog/2014/01/24/lumberjack-talking-about-logging-in-models</id>
     <content type="html"><![CDATA[<p>Evan Miller <a href="http://www.evanmiller.org/why-im-betting-on-julia.html">made an interesting observation in his blog recently</a>: “[Julia is] poised to do for technical computing what Node.js is doing for web development — getting disparate groups of programmers to code in the same language.” Well, I agree, and I might take it further. I’d like to see scientists and modelers come together with server-side developers to talk about logging&hellip; <a href="http://forio.com/blog/lumberjack-talking-about-logging-in-models/">(contiue reading)</a></p>
 ]]></content>
   </entry>
