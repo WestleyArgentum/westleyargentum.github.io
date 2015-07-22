@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congress is a Game, and We Know Which Groups are Winning"
+title: "Congress is a Game, and We Have the Data to Show Who’s Winning"
 date: 2015-02-02 10:00:51 -0500
 comments: false
 categories: [Politics, Congress]
