@@ -6,7 +6,7 @@ comments: false
 categories: [Politics, SCOTUS, Campaign Finance]
 ---
 
-Citizens United is one of the most universally hated Supreme Court decisions. Across the political spectrum, [almost no one is a fan](http://www.democracycorps.com/attachments/article/979/DCorps%20SCOTUS%20Memo%20FINAL%20050614.pdf). But many people think the central issue with Citizens United is that corporations were declared people, and that the solution is therefore to make them unambiguously not (through a constitutional amendment, for instance). This is not true, and it’s important we understand the logic and flaws in the majority opinion before we can evaluate possible solutions.
+_Citizens United_ is one of the most universally hated Supreme Court decisions. Across the political spectrum, [almost no one is a fan](http://www.democracycorps.com/attachments/article/979/DCorps%20SCOTUS%20Memo%20FINAL%20050614.pdf). But many people think the central issue with _Citizens United_ is that corporations were declared people, and that the solution is therefore to make them unambiguously not (through a constitutional amendment, for instance). This is not true, and it’s important we understand the logic and flaws in the majority opinion before we can evaluate possible solutions.
 
 Let’s back up. In 2009 the Supreme Court heard arguments in _Citizens United v. Federal Election Commission_. The case itself was about a specific nonprofit, Citizens United, advertising a film critical of Hillary Clinton close to the 2008 Democratic primary. And although the decision would dramatically change the legal landscape for all nonprofits, corporations, and unions, it was based on logic that starts with an individual.
 
