@@ -84,6 +84,10 @@ A piece about identifying special interests with the most influence in Congress.
 ##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
 A piece about embracing the stochastic nature of genetic algorithms and using them to find problems with models and simulations.
 
+### Talks
+
+##### [Who optimizes the optimizers: Can genetic algorithms help us to optimize the layout of LLVM IR passes used to compile Julia code?](https://youtu.be/Qito5AGSv4s)
+
 
 ### Organizations
 
