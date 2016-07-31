@@ -1,4 +1,4 @@
-## Westley Argentum Hennigh
+## Westley Argentum Hennigh-Palermo
 ##### westleyargentum@gmail.com  |  [github](https://github.com/westleyargentum) | [blog!](http://blog.westleyargentum.com)
 
 
@@ -15,16 +15,27 @@ From there I went to Hacker School, where I focused on getting better at data sc
 
 ### Programming Skills
 
-- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (3+ years), JavaScript (2+ years), Python (1 year)
+- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (3+ years), JavaScript (3+ years), Python (1+ years)
  
 - __Some experience with:__ Objective C, Java, x86 Assembly, GLSL, SQL
 
-- __Tools:__  Node.js, D3.js, AWS, Vagrant, Docker, etcd, Bash, Git, SVN, iOS SDK, GCC, STL, OpenGL, Visual Studio, Kinect SDK
+- __Tools:__  Node.js, D3.js, AWS, Docker, Vagrant, etcd, Bash, Git, SVN, iOS SDK, GCC, STL, OpenGL, Visual Studio, Kinect SDK
 
 
-### Projects
+### Selected Projects
 
-#### [Mandelbrot](http://forio.com/products/mandelbrot)
+#### [Congressional Influence Game](http://influencegame.io) (2014-2016, Independent + BuzzFeed)
+A prototype of a fantasy football-like game where players build teams out of lobbyists and compete in “seasons“ of Congress.
+
+At the Recurse Center I assembled data for the 112th and 113th Congresses, built a model for scoring actions on bills, and developed a simple but playable prototype. At BuzzFeed I've begun building out a backend and infrastructure so that we can release the game for real.
+
+#### [Shit VCs Say](https://itunes.apple.com/us/app/s**t-vcs-say/id1090534404) (2016, BuzzFeed)
+Shit VCs Say is an iOS quiz game that takes a critical look at some of the weirder propaganda coming out of Silicon Valley.
+
+#### [RSS Puppy](https://github.com/buzzfeed-openlab/rss-puppy) (2015, BuzzFeed)
+RSS Puppy is a simple but useful tool designed to monitor RSS feeds in bulk and generate machine friendly notifications when new entries appear. I built it as part of a larger project to help journalists automate some of the tedius parts of watching and processing document dumps.
+
+#### [Mandelbrot](http://forio.com/products/mandelbrot) (2013-2014, Forio)
 Mandelbrot is a distributed computing engine that runs Julia code (and exposes bindings for other languages). I was responsible for the laying out most of the initial architecture and implementing many of the base systems. I then continued to work on in a small team towards making the system better, faster, and more fault tolerant.
 
 Working on Mandelbrot has given me experience with many things:
@@ -35,28 +46,21 @@ Working on Mandelbrot has given me experience with many things:
  - Coordinating server activity with a custom protocol over TCP
  - Working with AWS services and APIs (Ec2, DynamoDB, ELB)
 
-#### [Campaign Finance Game](http://influencegame.io)
-A prototype of a fantasy football-like game where players build teams out of lobbyists and compete in “seasons“ of Congress.
-
-At Hacker School I assembled data for the 112th and 113th Congresses, built a model for scoring actions on bills, and developed a simple but playable prototype. Players can build teams out of interest groups, explore bills those groups took positions on, and compare the effectiveness of their teams lobbying efforts vs others.
-
-#### [Julia Studio](https://github.com/forio/julia-studio)
+#### [Julia Studio](https://github.com/forio/julia-studio) (2012-2014, Forio)
 Julia Studio is an open source IDE for the Julia language. After implementing several rough prototypes and plugins, we decided to fork Qt Creator, strip out everything nonessential, and build in tools to help people iterate quickly while writing Julia.
 
 I was the primary developer on Julia Studio during prototyping and for the first few releases. We then expanded the team and I shifted focus to other projects, but I still helped with OSX support and some community outreach.
 
-#### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl)
+#### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) (2014, Indpendent)
 GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then use multiple processors to run different pieces of the GA at the same time.
 
-#### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl)
+#### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) (2014, Forio)
 Lumberjack.jl is a logging library for Julia [motivated by more than just server-side needs](http://forio.com/blog/lumberjack-talking-about-logging-in-models). It's designed to be extremely modular and therefore flexible enough to be used in modeling code as well as in the backend.
 
-I ended up writing most of the code for Lumberjack, but a teammate helped conduct an extensive review of other libraries and the design decisions they made.
+#### [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) (2014, Independent)
+GitHub.jl started as a personal project that wrapped the GitHub API and made it easier to call from Julia. The community around it grew, and eventually it was absorbed into the larger JuliaWeb organization.
 
-#### [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl)
-GitHub.jl is a personal project that wraps the GitHub API and makes it easier to call from Julia.
-
-#### [Solstice](http://westleyargentum.github.io/solstice-website/)
+#### [Solstice](http://westleyargentum.github.io/solstice-website/) (2010-2012, DigiPen)
 Solstice is a music-driven exploration game that uses the Kinect. Players fly around a storybook world that changes as they collect fragments of the sun. A small group of friends and I worked on the game for a couple of years during school, and we were recognized at several events:
 
  - Best Kinect Game - hóPLAY (2012)
@@ -84,9 +88,13 @@ A piece about identifying special interests with the most influence in Congress.
 ##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
 A piece about embracing the stochastic nature of genetic algorithms and using them to find problems with models and simulations.
 
-### Talks
+### Talks + Panels
 
-##### [Who optimizes the optimizers: Can genetic algorithms help us to optimize the layout of LLVM IR passes used to compile Julia code?](https://youtu.be/Qito5AGSv4s)
+##### JuliaCon 2015: ["Who optimizes the optimizers: Can genetic algorithms help us to optimize the layout of LLVM IR passes used to compile Julia code?"](https://youtu.be/Qito5AGSv4s)
+
+##### NICAR 2016: ["Drones, scrapers and fantasy football for campaign finance"](https://www.ire.org/events-and-training/event/2198/2446/)
+
+##### Hacks / Hackers 2016: ["Games + Journalism"](https://youtu.be/CDmsD6DGsUM?t=24m21s)
 
 
 ### Organizations
@@ -98,4 +106,4 @@ I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Use
 
 In 2012 I graduated with a BS in Computer Science in Real Time Interactive Simulations and a minor in Math from DigiPen Institute of Technology.
 
-I also attended [Hacker School](https://www.hackerschool.com/) in the summer of 2014.
+I also attended the [Recurse Center](https://www.recurse.com) in the summer of 2014.
