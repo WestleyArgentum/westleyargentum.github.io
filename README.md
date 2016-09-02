@@ -6,16 +6,18 @@
 
 I love when creative and artistic work demands crazy engineering.
 
-At university I worked in close teams on independent games, built from scratch in C++. My 3rd year team and I were lucky enough to have our game Solstice win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
+At university I worked in close teams on independent games, built from scratch in C++. My 3rd year team and I were lucky enough to have our game [Solstice](http://blog.westleyargentum.com/solstice-website) win awards in the Tokyo Game Show's Sense of Wonder Night 2011 and the 2012 hóPLAY festival in Bilbao, Spain.
 
 I then worked in a small team on architecting and implementing a distributed computation engine. Our goal was to support data scientists and developers working on interactive simulation and visualization projects.
 
-From there I went to Hacker School, where I focused on getting better at data science and journalism. I created libraries and visualizations using campaign finance data, and have since gotten some of my work published.
+From there I went to the [Recurse Center](https://www.recurse.com), where I focused on getting better at data science and journalism. I created libraries and visualizations using campaign finance data, and had some of my work published.
+
+Now I work at the [BuzzFeed Open Lab](https://www.buzzfeed.com/openlab) building tools for journalists.
 
 
 ### Programming Skills
 
-- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (3+ years), JavaScript (3+ years), Python (1+ years)
+- __Proficient with:__ C++ (4+ years), C (2+ years), Julia (3+ years), JavaScript (4+ years), Python (1+ years)
  
 - __Some experience with:__ Objective C, Java, x86 Assembly, GLSL, SQL
 
@@ -23,6 +25,11 @@ From there I went to Hacker School, where I focused on getting better at data sc
 
 
 ### Selected Projects
+
+#### [BuzzBot](https://github.com/buzzfeed-openlab/buzzbot) (2016, BuzzFeed)
+BuzzBot is an experiment, designed to help journalists connect with people on the ground at events. It acts as a Facebook Messenger bot plus a dashboard that journalists can use to send messages to groups of users and view aggregated responses.
+
+I built BuzzBot at the Open Lab, and BuzzFeed News deployed it during the 2016 RNC and DNC. You can read more about our [initial plans](https://www.buzzfeed.com/mathonan/meet-buzzbot) for BuzzBot, but stay tuned because there's more to come.
 
 #### [Congressional Influence Game](http://influencegame.io) (2014-2016, Independent + BuzzFeed)
 A prototype of a fantasy football-like game where players build teams out of lobbyists and compete in “seasons“ of Congress.
@@ -54,12 +61,6 @@ I was the primary developer on Julia Studio during prototyping and for the first
 #### [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) (2014, Indpendent)
 GeneticAlgorithms.jl is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel. The idea was to break a GA into a set of independent functions. The framework could then use multiple processors to run different pieces of the GA at the same time.
 
-#### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) (2014, Forio)
-Lumberjack.jl is a logging library for Julia [motivated by more than just server-side needs](http://forio.com/blog/lumberjack-talking-about-logging-in-models). It's designed to be extremely modular and therefore flexible enough to be used in modeling code as well as in the backend.
-
-#### [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) (2014, Independent)
-GitHub.jl started as a personal project that wrapped the GitHub API and made it easier to call from Julia. The community around it grew, and eventually it was absorbed into the larger JuliaWeb organization.
-
 #### [Solstice](http://westleyargentum.github.io/solstice-website/) (2010-2012, DigiPen)
 Solstice is a music-driven exploration game that uses the Kinect. Players fly around a storybook world that changes as they collect fragments of the sun. A small group of friends and I worked on the game for a couple of years during school, and we were recognized at several events:
 
@@ -82,11 +83,20 @@ I love open source! If you're curious, you can check out code I've written for t
 
 ### Writing
 
+My work at BuzzFeed is at [https://www.buzzfeed.com/westleyargentum](https://www.buzzfeed.com/westleyargentum)
+
+##### [Automated Journalism That Works With Journalists](https://www.buzzfeed.com/westleyargentum/automated-journalism-that-works-with-journalists)
+We should be making bots that collaborate.
+
+##### [RSS Puppy](https://opensource.com/life/16/2/rss-puppy-lightweight-open-source-rss-reader)
+Published by OpenSource.com
+
 ##### [Congress Is a Game, and We Know Which Groups Are Winning](http://blog.westleyargentum.com/blog/2015/02/02/congress-is-a-game/)
 A piece about identifying special interests with the most influence in Congress. Originally a blog post, later published by [Dataconomy](http://dataconomy.com/congress-is-a-game-and-we-have-the-data-to-show-whos-winning/).
 
 ##### [Using Genetic Algorithms to Break Things](http://blog.westleyargentum.com/blog/2014/05/18/using-genetic-algorithms-to-break-things/)
 A piece about embracing the stochastic nature of genetic algorithms and using them to find problems with models and simulations.
+
 
 ### Talks + Panels
 
@@ -107,3 +117,21 @@ I co-founded the [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Use
 In 2012 I graduated with a BS in Computer Science in Real Time Interactive Simulations and a minor in Math from DigiPen Institute of Technology.
 
 I also attended the [Recurse Center](https://www.recurse.com) in the summer of 2014.
+
+
+### More Projects
+
+#### [3D Printable Mobiles, Coasters, and Other Pieces of Art](https://github.com/WestleyArgentum/3d-models)
+I've built a variety of mobiles that you can print and then assemble using yarn and other basic materials. I also sometimes design coasters and other simple objects just for fun.
+
+#### [Interactive Video Bot](https://github.com/buzzfeed-openlab/interactive-video-bot) (2016, BuzzFeed)
+A bot for making facebook live streams interactive. It will watch for comments on a facebook live video and fire events when it sees "trigger" phrases. We used it at BuzzFeed to make a puppy treat dispensor that people could trigger while they watched a live stream of shelter puppies.
+
+#### [Unwelcome Bot](https://github.com/buzzfeed-openlab/unwelcome-bot) (2016, BuzzFeed)
+A configurable twitter bot that should be used responsibly. Unwelcome Bot will monitor twitter and interject in conversations. It knows how to track words and phrases, it can watch for geolocated tweets, and it has several options for filtering tweets based on things they do or do not contain.
+
+#### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) (2014, Forio)
+Lumberjack.jl is a logging library for Julia [motivated by more than just server-side needs](http://forio.com/blog/lumberjack-talking-about-logging-in-models). It's designed to be extremely modular and therefore flexible enough to be used in modeling code as well as in the backend.
+
+#### [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) (2014, Independent)
+GitHub.jl started as a personal project that wrapped the GitHub API and made it easier to call from Julia. The community around it grew, and eventually it was absorbed into the larger JuliaWeb organization.
