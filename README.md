@@ -130,6 +130,9 @@ A bot for making facebook live streams interactive. It will watch for comments o
 #### [Unwelcome Bot](https://github.com/buzzfeed-openlab/unwelcome-bot) (2016, BuzzFeed)
 A configurable twitter bot that should be used responsibly. Unwelcome Bot will monitor twitter and interject in conversations. It knows how to track words and phrases, it can watch for geolocated tweets, and it has several options for filtering tweets based on things they do or do not contain.
 
+#### [LLVM Pass Optimizer](https://github.com/WestleyArgentum/pass-optimizer) (2015, Independent)
+A genetic algorithm desiged to optimize the layout of LLVM IR passes used to compile Julia code. It uses an interesting crossover function called Synapsing Variable Length Crossover.
+
 #### [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) (2014, Forio)
 Lumberjack.jl is a logging library for Julia [motivated by more than just server-side needs](http://forio.com/blog/lumberjack-talking-about-logging-in-models). It's designed to be extremely modular and therefore flexible enough to be used in modeling code as well as in the backend.
 
