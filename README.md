@@ -31,16 +31,16 @@ BuzzBot is an experiment, designed to help journalists connect with people on th
 
 I built BuzzBot at the Open Lab, and BuzzFeed News deployed it during the 2016 RNC and DNC. You can read more about our [initial plans](https://www.buzzfeed.com/mathonan/meet-buzzbot) for BuzzBot, but stay tuned because there's more to come.
 
-#### [Congressional Influence Game](http://influencegame.io) (2014-2016, Independent + BuzzFeed)
-A prototype of a fantasy football-like game where players build teams out of lobbyists and compete in “seasons“ of Congress.
-
-At the Recurse Center I assembled data for the 112th and 113th Congresses, built a model for scoring actions on bills, and developed a simple but playable prototype. At BuzzFeed I've begun building out a backend and infrastructure so that we can release the game for real.
-
 #### [Shit VCs Say](https://itunes.apple.com/us/app/s**t-vcs-say/id1090534404) (2016, BuzzFeed)
 Shit VCs Say is an iOS quiz game that takes a critical look at some of the weirder propaganda coming out of Silicon Valley.
 
 #### [RSS Puppy](https://github.com/buzzfeed-openlab/rss-puppy) (2015, BuzzFeed)
-RSS Puppy is a simple but useful tool designed to monitor RSS feeds in bulk and generate machine friendly notifications when new entries appear. I built it as part of a larger project to help journalists automate some of the tedius parts of watching and processing document dumps.
+RSS Puppy is a simple but useful tool designed to monitor RSS feeds in bulk and generate machine-friendly notifications when new entries appear. I built it as part of a larger project to help journalists automate some of the tedious parts of watching and processing document dumps.
+
+#### [Congressional Influence Game](http://influencegame.io) (2014-2016, Independent + BuzzFeed)
+A prototype of a fantasy football-like game where players build teams out of lobbyists and compete in “seasons“ of Congress.
+
+At the Recurse Center I assembled data for the 112th and 113th Congresses, built a model for scoring actions on bills, and developed a simple but playable prototype. At BuzzFeed I've begun building out a backend and infrastructure so that we can release the game for real.
 
 #### [Mandelbrot](http://forio.com/products/mandelbrot) (2013-2014, Forio)
 Mandelbrot is a distributed computing engine that runs Julia code (and exposes bindings for other languages). I was responsible for the laying out most of the initial architecture and implementing many of the base systems. I then continued to work on in a small team towards making the system better, faster, and more fault tolerant.
@@ -100,11 +100,11 @@ A piece about embracing the stochastic nature of genetic algorithms and using th
 
 ### Talks + Panels
 
-##### JuliaCon 2015: ["Who optimizes the optimizers: Can genetic algorithms help us to optimize the layout of LLVM IR passes used to compile Julia code?"](https://youtu.be/Qito5AGSv4s)
+##### Hacks / Hackers 2016: ["Games + Journalism"](https://youtu.be/CDmsD6DGsUM?t=24m21s)
 
 ##### NICAR 2016: ["Drones, scrapers and fantasy football for campaign finance"](https://www.ire.org/events-and-training/event/2198/2446/)
 
-##### Hacks / Hackers 2016: ["Games + Journalism"](https://youtu.be/CDmsD6DGsUM?t=24m21s)
+##### JuliaCon 2015: ["Who optimizes the optimizers: Can genetic algorithms help us to optimize the layout of LLVM IR passes used to compile Julia code?"](https://youtu.be/Qito5AGSv4s)
 
 
 ### Organizations
@@ -125,7 +125,7 @@ I also attended the [Recurse Center](https://www.recurse.com) in the summer of 2
 I've built a variety of mobiles that you can print and then assemble using yarn and other basic materials. I also sometimes design coasters and other simple objects just for fun.
 
 #### [Interactive Video Bot](https://github.com/buzzfeed-openlab/interactive-video-bot) (2016, BuzzFeed)
-A bot for making facebook live streams interactive. It will watch for comments on a facebook live video and fire events when it sees "trigger" phrases. We used it at BuzzFeed to make a puppy treat dispensor that people could trigger while they watched a live stream of shelter puppies.
+A bot for making Facebook live streams interactive. It will watch for comments on a facebook live video and fire events when it sees "trigger" phrases. We used it at BuzzFeed to make a puppy treat dispenser that people could trigger while they watched a live stream of shelter puppies.
 
 #### [Unwelcome Bot](https://github.com/buzzfeed-openlab/unwelcome-bot) (2016, BuzzFeed)
 A configurable twitter bot that should be used responsibly. Unwelcome Bot will monitor twitter and interject in conversations. It knows how to track words and phrases, it can watch for geolocated tweets, and it has several options for filtering tweets based on things they do or do not contain.
