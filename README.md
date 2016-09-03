@@ -125,7 +125,7 @@ I also attended the [Recurse Center](https://www.recurse.com) in the summer of 2
 I've built a variety of mobiles that you can print and then assemble using yarn and other basic materials. I also sometimes design coasters and other simple objects just for fun.
 
 #### [Interactive Video Bot](https://github.com/buzzfeed-openlab/interactive-video-bot) (2016, BuzzFeed)
-A bot for making Facebook live streams interactive. It will watch for comments on a facebook live video and fire events when it sees "trigger" phrases. We used it at BuzzFeed to make a puppy treat dispenser that people could trigger while they watched a live stream of shelter puppies.
+A bot for making Facebook live streams interactive. It will watch for comments on a facebook live video and fire events when it sees "trigger" phrases. We used it at BuzzFeed to make a dog treat dispenser that people could trigger while they watched a live stream of shelter puppies.
 
 #### [Unwelcome Bot](https://github.com/buzzfeed-openlab/unwelcome-bot) (2016, BuzzFeed)
 A configurable twitter bot that should be used responsibly. Unwelcome Bot will monitor twitter and interject in conversations. It knows how to track words and phrases, it can watch for geolocated tweets, and it has several options for filtering tweets based on things they do or do not contain.
