@@ -1,4 +1,2 @@
 User-agent: *
 Disallow: 
-
-Sitemap: http://blog.westleyargentum.com/sitemap.xml 
