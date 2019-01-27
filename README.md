@@ -4,9 +4,9 @@
 
 ### Summary
 
-I love working on interdisciplinary teams taking on creative and artistic work that demands crazy engineering. I've helped create indie games, worked on platforms for visualization and simulation, and supported journalists by building tools and furthering research.
+I enjoy working on interdisciplinary teams taking on creative and artistic work that demands complex engineering. I've helped create indie games, worked on platforms for visualization and simulation, and supported journalists by building tools and furthering research.
 
-Often I contribute as a software developer but I enjoy opportunities to help with on-the-ground reporting and I'm happy to do the work of deploying and supporting useful hardware and software systems.
+Often I contribute as a software developer but I will jump at opportunities to help with on-the-ground reporting and I'm happy to do the work of deploying and supporting useful hardware and software systems.
 
 
 ### Programming Skills
@@ -30,7 +30,7 @@ Rififi is a distributed database designed to enable the building of safe, collab
 ##### [Trial and Terror](https://trial-and-terror.theintercept.com/) (2017)
 Trial and Terror is a data journalism project that highlights some of the problems with prosecutions for international terrorism charges that have happened in the US since 9/11. Since publication the project has won multiple awards including the Online Journalism Awards (OJAs) award for Investigative Data Journalism (Small/Medium Newsroom).
 
-As part of the project, international terrorism cases tracked and updated on an ongoing basis using an internal administrative tool. When updates are published the public facing visualizations update accordingly. I was a small part of the engineering team supporting the project.
+As part of the project, international terrorism cases are tracked and updated on an ongoing basis using an internal administrative tool. When updates are published the public facing visualizations update accordingly. I was a small part of the engineering team supporting the project.
 
 
 #### Fellow at the BuzzFeed Open Lab (2015-2016)
