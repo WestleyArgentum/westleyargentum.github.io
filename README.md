@@ -11,7 +11,7 @@ Often I contribute as a software developer but I will jump at opportunities to h
 
 ### Programming Skills
 
-- __Proficient with:__ JavaScript (6+ years), C++ (4+ years), C (2+ years), Julia (3+ years), Python (2+ years)
+- __Proficient with:__ JavaScript (6+ years), C++ (4+ years), C (2+ years), Julia (3+ years), Python (3+ years)
  
 - __Some experience with:__ Rust, Java, Objective C, Lua, x86 Assembly, GLSL, SQL
 
@@ -56,7 +56,7 @@ A prototype of a fantasy football-like game where players build teams out of lob
 
   
 #### Engineer at Forio Online Simulations (2012 - 2014)
-Forio builds educational simulations for groups like MIT, Harvard, and Wharton on a platform that was engineered in house to support data scientists and modelers. I worked there as an engineer helping to integrate a new scientific computing language called Julia into their platform.
+Forio builds educational simulations for groups like MIT, Harvard, and Wharton on a platform that was engineered in house to support data scientists and modelers. I worked there as an engineer helping to integrate a new scientific computing language called Julia into their platform. I made a few contributions to the Julia language and created and maintained a variety of early packages.
 
 ##### [Mandelbrot](http://forio.com/products/mandelbrot) (2013-2014)
 Mandelbrot is a distributed computing engine that runs Julia code (and exposes bindings for other languages). I was responsible for the laying out much of the initial architecture and implementing many of the base systems. I then continued to work on in a small team towards making the system better, faster, and more fault tolerant.
